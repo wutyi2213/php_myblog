@@ -1,0 +1,8 @@
+//MySqli Procedure
+//MySqli Object Oriented
+//PDO (PHP Data Object)->secure and DBMS fast
+
+MySql to connect 3 steps 
+1.connection with Database 
+2.Run Sql query
+3.Closing the database connection
